@@ -1,0 +1,18 @@
+font{
+     color: yellow;
+     font-weight: bold;
+     font-style: italic;
+     text-align: center;
+}
+p{
+  color: white;
+  font: italic bold 20px georgia;
+}
+a{
+  color: orange;
+   font: italic bold 20px geogia;
+}
+body{
+        background-image: url("background2.jfif");
+        background-repeat: round;
+}
